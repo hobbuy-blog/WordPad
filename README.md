@@ -14,3 +14,11 @@ Copy the files in `WordPad` folder to the same path as bellow: `OS(C:) / Program
 Now you can use WordPad again!
 
 The folder `ja_JP` is for Japanese user, it's a Japanese assets.
+
+## Safety
+These files are copied from Windows system folder.
+It means that files are completely safe, also contains no virus.
+
+## Terms of Use
+- Do not use for bad things.
+- I'm not responsible for your damage on the computer. Please use by your own responsibility.
